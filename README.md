@@ -5,7 +5,7 @@ C# Developer
 ------------
 
 * 🌍  I'm based in New Jersey
-* ✉️  You can contact me at [tourmalina@inbox.ru](mailto:tourmalina@inbox.ru )
+* ✉️  You can contact me at 
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
 * 🧠  I'm learning SQL
 * 🤝  I'm open to collaborating on interesting projects
