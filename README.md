@@ -5,10 +5,10 @@ Junior C# Developer
 ------------
 
 * 🌍  I'm based in New Jersey, USA. I open to work
-* ✉️  You can contact me at 
+* ✉️  You can contact me at  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yakovleva.natali@gmail.com)
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
 * 🧠  I'm learning C#
-* :seedling:  I know LINQ, MS SQL, GIT
+* 🌱  I know LINQ, MS SQL, GIT
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like gardening, trivia games and travel
 
@@ -67,3 +67,5 @@ Junior C# Developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/IakovlevaNatalia/IakovlevaNatalia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IakovlevaNatalia&repo=IakovlevaNatalia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+  
+   [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yakovleva.natali@gmail.com)
