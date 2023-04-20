@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C# Developer
 ------------
 
-* 🌍  I'm based in New Jersey
+* 🌍  I'm based in New Jersey, USA. I open to work
 * ✉️  You can contact me at 
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
-* 🧠  I'm learning SQL
+* 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like gardening, trivia games and travel
 
