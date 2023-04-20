@@ -8,7 +8,7 @@ Junior C# Developer
 * ✉️  You can contact me at 
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
 * 🧠  I'm learning C#
-* :seedling: I know LINQ, MS SQL, GIT
+* :seedling:  I know LINQ, MS SQL, GIT
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like gardening, trivia games and travel
 
