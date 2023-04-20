@@ -51,6 +51,9 @@ C# Developer
 
 <br/>  
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/IakovlevaNatalia/badges/large)
 
 
 ### Socials
