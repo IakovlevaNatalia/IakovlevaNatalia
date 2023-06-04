@@ -8,7 +8,7 @@ Junior C# Developer
 * ✉️  You can contact me at  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:yakovleva.natali@gmail.com)
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
 * 🧠  I'm learning C#
-* 🌱  I know LINQ, MS SQL, GIT
+* 🌱  I worked with LINQ, MS SQL, GIT, MS Azure, Docker, RabbitMQ
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like gardening, trivia games and travel
 
