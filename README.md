@@ -8,7 +8,7 @@ Software Developer
 * ✉️  You can contact me at [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-red?style=flat&logo=Yahoo&logoColor=white)](mailto:balakov@myyahoo.com)
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
 * 🧠  Stay up-to-date with the latest .NET technologies and industry best practices
-* 🌱  I know LINQ, MS SQL, GIT, MS Azure, Docker, RabbitMQ
+* 🌱  I know C#, LINQ, MS SQL Server, GIT, Agile, HTML, CSS, Razor, WinForms, RabbitMQ
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like gardening, trivia games and travel
 
