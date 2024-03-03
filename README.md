@@ -5,7 +5,7 @@ Software Developer
 ------------
 
 * 🌍  I'm based in New Jersey, USA. I open to work
-* ✉️  You can contact me at  [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-red?style=flat&logo=Yahoo&logoColor=white)](mailto:balakov@myyahoo.com)
+* ✉️  You can contact me [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-red?style=flat&logo=Yahoo&logoColor=white)](mailto:balakov@myyahoo.com)
 * 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
 * 🧠  Stay up-to-date with the latest .NET technologies and industry best practices
 * 🌱  I know LINQ, MS SQL, GIT, MS Azure, Docker, RabbitMQ
