@@ -4,13 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------
 
-* 🌍  I'm based in New Jersey, USA. I open to work
-* ✉️  You can contact me at [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-red?style=flat&logo=Yahoo&logoColor=white)](mailto:balakov@myyahoo.com)
-* 🚀  I'm currently working on [OnlineShopWebApp](http://github.com/IakovlevaNatalia/OnlineShopWebApp)
-* 🧠  Stay up-to-date with the latest .NET technologies and industry best practices
-* 🌱  I know C#, LINQ, MS SQL Server, GIT, Agile, HTML, CSS, Razor, WinForms, RabbitMQ
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I like gardening, trivia games and travel
+🌍  I'm based in New Jersey, USA. I open to work  
+🟣 Proficient in C# programming language  
+🟣 Solid understanding of object-oriented programming (OOP) principles and design patterns  
+🟣 Familiarity with the .NET framework and related technologies such as ASP.NET, Entity Framework, and LINQ  
+🟣 Strong understanding of database technologies including MS SQL Server  
+🟣 Knowledge of web development technologies including HTML, CSS, JavaScript, and frameworks like Bootstrap and Angular  
+🟣 Experience with Git version control systems and development tools, with Visual Studio and Visual Studio Code  
+🟣 Strong analytical and problem-solving skills with the ability to troubleshoot and debug software applications effectively  
+🟣 Highly self-motivated, effective team player and results oriented  
+🧠 Stay up-to-date with the latest .NET technologies and industry best practices    
+🤝 I'm open to collaborating on interesting projects  
+📳 You can contact me at [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+✉️ You can contact me at [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-red?style=flat&logo=Yahoo&logoColor=white)](mailto:balakov@myyahoo.com)  
+⚡ I like gardening, trivia games and travel  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
