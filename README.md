@@ -15,7 +15,7 @@ Software Developer
 🟣 Highly self-motivated, effective team player and results oriented  
 🧠 Stay up-to-date with the latest .NET technologies and industry best practices    
 🤝 I'm open to collaborating on interesting projects  
-📳 You can contact me at [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+📳 You can contact me at [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliabalakov)  
 ✉️ You can contact me at [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-red?style=flat&logo=Yahoo&logoColor=white)](mailto:balakov@myyahoo.com)  
 ⚡ I like gardening, trivia games and travel  
 
